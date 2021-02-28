@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Here I've followed along to the code examples in \"Go Programming Language\" by A.A. Alan Donovan")
+	fmt.Println("Code from following along to \"The Go Programming Language\" book by Alan A. A. Donovan & Brian W. Kernighan")
 }
